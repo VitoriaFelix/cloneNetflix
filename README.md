@@ -18,7 +18,7 @@ No terminal, siga as seguintes instruções:
 $ git clone https://github.com/VitoriaFelix/netflixClone
 
 # Acessa a pasta do netflixclone
-$ cd netflixclone
+$ cd cloneNetflix
 
 # Instalar as dependências
 $ npm install
